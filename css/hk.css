@@ -1,0 +1,35 @@
+.me-font p{
+    color: black;
+    font-size: 20px;
+}
+.me-work p{
+    color: white;
+    font-size: 18px;
+}
+.shuzi p span{
+    font-size: 30px;
+    color: yellow;
+}
+.me-skill h4{
+    margin:10px 10px 10px 100px;
+} 
+.me-skill a{
+    color: red;
+}
+.me-project2 p{
+    font-size: 22px;
+    color: black;
+    display: inline;
+}
+.me-project1 p{
+    display: inline;
+}
+.me-project1 p span{
+    color: red;
+    font-size: 25px;
+}
+
+#gerenjianli a{
+    color: red;
+    font-size: 14px;
+}
